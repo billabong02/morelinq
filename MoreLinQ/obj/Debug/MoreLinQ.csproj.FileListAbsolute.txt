@@ -1,0 +1,6 @@
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\bin\Debug\MoreLinQ.exe.config
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\bin\Debug\MoreLinQ.exe
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\bin\Debug\MoreLinQ.pdb
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\obj\Debug\MoreLinQ.csprojResolveAssemblyReference.cache
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\obj\Debug\MoreLinQ.exe
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\MoreLinQ\MoreLinQ\obj\Debug\MoreLinQ.pdb
